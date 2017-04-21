@@ -4,5 +4,6 @@ This was my embedded system course project in university.
 
 Components:
  - 1 Arduino Mega
- - 11 button
- - 1 buzzer
+ - 11 Buttons
+ - 2 Buzzers
+ - 1 Breadboard
