@@ -6,4 +6,4 @@ Components:
  - 1 Arduino Mega
  - 11 Buttons
  - 2 Buzzers
- - 1 Breadboard
+ - 2 Breadboards
