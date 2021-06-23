@@ -5,7 +5,7 @@ void setup()
     // Setting up input/output
     pinMode(buzzer, OUTPUT);    
 
-    pinMode (10,INPUT);
+    pinMode(10, INPUT);
     pinMode(9, INPUT);
     pinMode(8, INPUT);
     pinMode(7, INPUT);
